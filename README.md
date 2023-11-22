@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Eliel Diaz Galindo
+## Jose Luis Galindo Picazo
 ## 10A
 ### Desarrollo Móvil Integral
 
